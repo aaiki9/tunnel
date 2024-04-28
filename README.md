@@ -1,7 +1,6 @@
-# FighterTunnel
+# KOBOYVPN
 ```
-wget --no-check-certificate https://yha.my.id/ub20.sh && chmod +x ub20.sh && ./ub20.sh
-```
-![qris](https://github.com/FighterTunnel/tunnel/raw/main/fodder/bhoikfostyahya/ftvpn.png)
+wget --no-check-certificate https://raw.githubusercontent.com/aaiki9/tunnel/main/ins.sh && chmod +x ins.sh && screen -S setup ./ins.sh
+``'
 - Dana/Ovo/Gopay/ShopeePay
-  - 081584099035
+  - 081292093430
